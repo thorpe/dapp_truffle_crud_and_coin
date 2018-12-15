@@ -13,8 +13,8 @@ ganache-cli
 
 2. Download and Install Application.
  ```javascript
-git clone https://github.com/thorpe/dapp_truffle_crud.git
-cd dapp_truffle_crud
+git clone https://github.com/thorpe/dapp_truffle_crud_and_coin.git
+cd dapp_truffle_crud_and_coin
 npm install
  ```
 
